@@ -1,0 +1,22 @@
+{
+    "firstname": "Ganesh",
+    "lastname": "N", 
+    "aadhar": "823452345234",
+    "pan": "CBZ4523452345", 
+    "phone": "876543246346", 
+    "email": "ganeshn944780@gmail.com", 
+    "password": "123456",
+    "address": "Siragate tumkur", 
+    "userUPI": "8310241625@gmail.com", 
+    "productId": 1, 
+    "paymentScreenshot": "C://fasdfasf/aca.jpg", 
+    "paymentTransactionId": "", 
+    "shipmentType": ""
+}
+
+"referenceId": "",
+"totalBalance": 0,
+"firstLevelCount": 
+"secondLevelCount": 
+"thirdLevelCount": 
+"status":
